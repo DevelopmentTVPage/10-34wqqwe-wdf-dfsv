@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "qwesd"
+baseURL = "https:\/\/34wqqwe.wdf.dfsv"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758381"
+subfolder = ""
